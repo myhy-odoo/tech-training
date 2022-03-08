@@ -2,7 +2,7 @@
 
 from odoo import models, fields, api
 
-class Spaceship(model.Models){
+class Spaceship(models.Model){
     
     _name = "spaceMission.spaceship"
     _description = "Spaceship"
