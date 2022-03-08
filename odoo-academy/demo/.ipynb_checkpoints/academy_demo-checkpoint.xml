@@ -6,5 +6,15 @@
             <field name="description"> Learn ERP System </field>
             <field name="level"> beginner </field>
         </record>
+        
+        <record model="academy.course" id="accounting_200">
+            <field name="name"> Accounting 200 </field>
+            <field name="description">
+                Accounting 200:
+                Intermediate Accounting Course
+                Learning abour Cost Accounting 
+            </field>
+            <field name="level"> intermediate </field>
+        </record>
     </data>
 </odoo>
