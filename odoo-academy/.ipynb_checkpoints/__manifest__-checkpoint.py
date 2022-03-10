@@ -8,6 +8,6 @@
     "category": "Training",
     "version": "0.1",
     "depends": ["base"],
-    "data": [ "security/academy_security.xml", "security/ir.model.access.csv","views/academy_menuItems.xml","views/course_views.xml"],
+    "data": [ "security/academy_security.xml", "security/ir.model.access.csv","views/academy_menuItems.xml","views/course_views.xml","views/session_views.xml"],
     "demo": [ "demo/academy_demo.xml"] 
 }
