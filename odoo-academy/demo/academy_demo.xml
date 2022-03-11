@@ -12,9 +12,25 @@
             <field name="description">
                 Accounting 200:
                 Intermediate Accounting Course
-                Learning abour Cost Accounting 
+                Learning about Cost Accounting 
             </field>
             <field name="level">intermediate</field>
+        </record>
+        
+        <record model="academy.course" id="business_300">
+            <field name="name"> Business 300 </field>
+            <field name="description">
+                Business 300: 
+            </field>
+            <field name="level">intermediate</field>
+        </record>
+        
+        <record model="academy.course" id="business_100">
+            <field name="name"> Business 100 </field>
+            <field name="description">
+                Business 100: 
+            </field>
+            <field name="level">beginner</field>
         </record>
     </data>
 </odoo>
